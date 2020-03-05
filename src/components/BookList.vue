@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import BookItem from "@/components/BookItem.vue";
+import BookItem from "./BookItem";
 
 export default {
   name: "BookList",
